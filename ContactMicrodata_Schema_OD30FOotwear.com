@@ -31,15 +31,14 @@
     "email": "sales@od30footwear.com",
     "contactType": "sales",
     "areaServed": "Global",
-    "availableLanguage": "English"
+    "availableLanguage": ["English", "Arabic", "French", "German", "Spanish"]
   },{
     "@type": "ContactPoint",
     "telephone": "+1-703-951-3779",
     "email": "media@od30footwear.com",
     "contactType": "media",
     "areaServed": "Global",
-    "availableLanguage": "[English, French, German, Spanish]"
+    "availableLanguage": ["Arabic", "English", "French", "German", "Spanish"]
   }],
-  ""
 }
 </script>
