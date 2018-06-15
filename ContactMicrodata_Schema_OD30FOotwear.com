@@ -10,6 +10,8 @@
               Mission Viejo, CA 92691
               United States",
   "location": "California, USA",
+  "foundingLocation": "California, USA",
+  "brand": "OD:30",
   "sameAs" : [ "http://www.facebook.com/od30boots",
     "http://www.twitter.com/od30boots",
     "http://plus.google.com/118298164787728244384",
@@ -37,6 +39,7 @@
     "contactType": "media",
     "areaServed": "Global",
     "availableLanguage": "[English, French, German, Spanish]"
-  }]
+  }],
+  ""
 }
 </script>
