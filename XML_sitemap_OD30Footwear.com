@@ -14,17 +14,17 @@
 <url>
   <loc>https://od30footwear.com/search</loc>
   <lastmod>2018-05-04T18:20:12+00:00</lastmod>
-  <priority>0.80</priority>
+  <priority>0.90</priority>
 </url>
 <url>
   <loc>https://od30footwear.com/products</loc>
   <lastmod>2018-05-04T18:20:12+00:00</lastmod>
-  <priority>0.80</priority>
+  <priority>0.90</priority>
 </url>
 <url>
   <loc>https://od30footwear.com/products/heritage-series</loc>
   <lastmod>2018-05-04T18:20:12+00:00</lastmod>
-  <priority>0.80</priority>
+  <priority>0.70</priority>
 </url>
 <url>
   <loc>https://od30footwear.com/products/combat-series</loc>
@@ -34,12 +34,12 @@
 <url>
   <loc>https://od30footwear.com/aboutus</loc>
   <lastmod>2018-05-04T18:20:12+00:00</lastmod>
-  <priority>0.80</priority>
+  <priority>0.50</priority>
 </url>
 <url>
   <loc>https://od30footwear.com/cart</loc>
   <lastmod>2018-05-04T18:20:12+00:00</lastmod>
-  <priority>0.80</priority>
+  <priority>0.50</priority>
 </url>
 <url>
   <loc>https://od30footwear.com/contact-us</loc>
