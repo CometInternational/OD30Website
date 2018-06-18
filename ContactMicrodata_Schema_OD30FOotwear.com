@@ -1,4 +1,5 @@
-<script type="application/ld+json">
+<s
+cript type="application/ld+json">
 {
   "@context": "http://schema.org",
   "@type": "Organization",

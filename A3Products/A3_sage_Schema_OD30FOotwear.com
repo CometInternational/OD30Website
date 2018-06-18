@@ -10,7 +10,8 @@
   "disambiguatingDescription": "Black version of the A3",
   "brand": "OD:30",
   "color": "Black",
-  "isSimilarTo": "OD:30 A3 Combat Boot in Sage",
+  "isSimilarTo": "OD:30 A3 Combat Boot in Coyote",
+  "isRelatedTo": "https://od30footwear.com/Coyot",
   "productID": "32238G",
   "image": "https://od30footwear.com/site/Images/32238SG_45-1.jpg?resizeid=5&resizeh=1000&resizew=1000"
 }
