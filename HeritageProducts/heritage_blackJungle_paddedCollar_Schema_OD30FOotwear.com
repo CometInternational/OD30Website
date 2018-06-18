@@ -11,6 +11,7 @@
   "brand": "OD:30",
   "color": "Black",
   "isSimilarTo": "OD:30 A3 Side-Zip Combat Boot in Coyote",
+  "isRelatedTo": "https://od30footwear.com/Black-Jungle-Boot-Webbed-Collar",
   "productID": "32236BK",
   "image": "https://od30footwear.com/site/Images/32236BK_ProfileInside-1.jpg?resizeid=5&resizeh=1000&resizew=1000"
 }
