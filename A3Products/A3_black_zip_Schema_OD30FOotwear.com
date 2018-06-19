@@ -3,7 +3,7 @@
   "@context": "http://schema.org",
   "@id": "#product",
   "@type": "IndividualProduct",
-  "additionalType": "https://od30footwear.com/product/1016",
+  "url": "https://od30footwear.com/product/1016",
   "name": "OD:30 A3 Side-Zip Combat Boot in Black",
   "manufacturer": "OD:30 LLC",
   "description": "This lightweight, combat ready boot features 100% full grain cattlehide leather, YKK side zipper, 1200 denier nylon, padded collar, brass hardware and Dimensions™ removable polyurethane footbed. ",
