@@ -1,0 +1,32 @@
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@id": "#product",
+  "@type": "IndividualProduct",
+  "url": "https://od30footwear.com/Tan-Desert-Boot",
+  "name": "OD:30 tan desert boot",
+  "manufacturer": "OD:30 LLC",
+  "description": "This authentic, combat ready desert boot features   The rubber Panama outsole is vulcanized directly to the upper using genuine direct molded sole (DMS) construction, ensuring maximum durability.  These boots are built to American Military Standards with real materials and no imitations, and conform with DA PAM 670-1.",
+  "disambiguatingDescription": "Tan desert version of the Heritage Series combat boot",
+  "brand": "OD:30",
+  "color": "Coyote",
+  "isSimilarTo": "OD:30 Jungle Boot with Padded Collar, in Black",
+  "productID": "32237CY",
+  "image": ["https://od30footwear.com/site/Images/9514TN_45-1.jpg?resizeid=5&resizeh=1000&resizew=1000",
+            "https://od30footwear.com/site/Images/9514TN_ProfileIn-1.jpg?resizeid=5&resizeh=1000&resizew=1000",
+            "https://od30footwear.com/site/Images/9514TN_ProfileOut-1.jpg?resizeid=5&resizeh=1000&resizew=1000",
+            "https://od30footwear.com/site/Images/9514TN_Front-1.jpg?resizeid=5&resizeh=1000&resizew=1000"],
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "USD",
+    "price": "111.99",
+    "priceValidUntil": "2018-09-01",
+    "itemCondition": "http://schema.org/NewCondition",
+    "availability": "http://schema.org/OutOfStock",
+    "seller": {
+      "@type": "Organization",
+      "name": "OD:30"
+              }
+            }
+}
+</script>

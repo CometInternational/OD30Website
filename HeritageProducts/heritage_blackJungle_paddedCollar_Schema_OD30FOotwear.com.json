@@ -3,16 +3,31 @@
   "@context": "http://schema.org",
   "@id": "#product",
   "@type": "IndividualProduct",
-  "url": "https://od30footwear.com/product/1016",
-  "name": "OD:30 A3 Side-Zip Combat Boot in Black",
+  "url": "https://od30footwear.com/Black-Jungle-Boot",
+  "name": "OD:30 Jungle Boot with Padded Collar, in Black",
   "manufacturer": "OD:30 LLC",
-  "description": "This lightweight, combat ready boot features 100% full grain cattlehide leather, YKK side zipper, 1200 denier nylon, padded collar, brass hardware and Dimensions™ removable polyurethane footbed. ",
+  "description": "This authentic, combat ready jungle boot features 100% full grain leather, 1200 denier nylon, brass hardware and Dimensions™ removable polyurethane footbed.  The Black Jungle Boot also features a padded collar and Strata™ anti-penetration solution that conforms to an ASTM F-2413-11 standard.  The rubber Panama outsole is vulcanized directly to the upper using genuine direct molded sole (DMS) construction, ensuring maximum durability.",
   "disambiguatingDescription": "Black version of the A3, with zipper",
   "brand": "OD:30",
   "color": "Black",
-  "isSimilarTo": "OD:30 A3 Side-Zip Combat Boot in Coyote",
+  "isSimilarTo": "OD:30 Jungle Boot with Webbed-Tape Collar, in Black",
   "isRelatedTo": "https://od30footwear.com/Black-Jungle-Boot-Webbed-Collar",
   "productID": "32236BK",
-  "image": "https://od30footwear.com/site/Images/32236BK_ProfileInside-1.jpg?resizeid=5&resizeh=1000&resizew=1000"
+  "image": ["https://od30footwear.com/site/Images/9514BK_45-1.jpg?resizeid=5&resizeh=1000&resizew=1000",
+            "https://od30footwear.com/site/Images/9514BK_ProfileIn-1.jpg?resizeid=5&resizeh=1000&resizew=1000",
+            "https://od30footwear.com/site/Images/9514BK_ProfileOut-1.jpg?resizeid=5&resizeh=1000&resizew=1000",
+            "https://od30footwear.com/site/Images/9514BK_Front-1.jpg?resizeid=5&resizeh=1000&resizew=1000"],
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "USD",
+    "price": "111.99",
+    "priceValidUntil": "2018-09-01",
+    "itemCondition": "http://schema.org/NewCondition",
+    "availability": "http://schema.org/OutOfStock",
+    "seller": {
+      "@type": "Organization",
+      "name": "OD:30"
+              }
+            }
 }
 </script>

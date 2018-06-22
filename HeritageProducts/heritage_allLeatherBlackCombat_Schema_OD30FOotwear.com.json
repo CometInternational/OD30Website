@@ -7,11 +7,26 @@
   "name": "OD:30 Heritage Series All-Leather Black Combat Boot",
   "manufacturer": "OD:30 LLC",
   "productID": "9512BK",
-  "description": "All Leather Combat Boot – The all leather combat boot features 100% full grain leather, brass hardware and Dimensions™ removable polyurethane footbed.  The rubber Panama outsole is vulcanized directly to the all leather upper using genuine direct molded sole (DMS) construction, ensuring maximum durability.  These boots are built to American Military Standards with real materials and no imitations.",
+  "description": "The all leather combat boot features 100% full grain leather, brass hardware and Dimensions™ removable polyurethane footbed.  The rubber Panama outsole is vulcanized directly to the all leather upper using genuine direct molded sole (DMS) construction, ensuring maximum durability.  These boots are built to American Military Standards with real materials and no imitations.",
   "disambiguatingDescription": "Black version of the All-Leather Combat Boot from OD:30's Heritage Series",
   "brand": "OD:30",
   "color": "Black",
-  "isSimilarTo": "OD:30 Heritage Series Jungle Boot in Black",
-  "image": "https://od30footwear.com/site/Images/9512BK_45-1.jpg?resizeid=5&resizeh=1000&resizew=1000"
+  "isSimilarTo": "OD:30 Heritage Series Jungle Boot with Webbed Tape in Black",
+  "image": ["https://od30footwear.com/site/Images/9512BK_45-1.jpg?resizeid=5&resizeh=1000&resizew=1000",
+            "https://od30footwear.com/site/Images/9512BK_ProfileIn-1.jpg?resizeid=5&resizeh=1000&resizew=1000",
+            "https://od30footwear.com/site/Images/9512BK_ProfileOut-1.jpg?resizeid=5&resizeh=1000&resizew=1000",
+            "https://od30footwear.com/site/Images/9512BK_Front-1.jpg?resizeid=5&resizeh=1000&resizew=1000"],
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "USD",
+    "price": "129.99",
+    "priceValidUntil": "2018-09-01",
+    "itemCondition": "http://schema.org/NewCondition",
+    "availability": "http://schema.org/OutOfStock",
+    "seller": {
+      "@type": "Organization",
+      "name": "OD:30"
+              }
+            }
 }
 </script>
