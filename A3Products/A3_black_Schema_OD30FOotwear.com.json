@@ -3,7 +3,7 @@
   "@context": "http://schema.org",
   "@id": "#product",
   "@type": "IndividualProduct",
-  "url": "https://od30footwear.com/product/1053",
+  "url": "https://od30footwear.com/Black-A3-Combat-Boot",
   "name": "OD:30 A3 Combat Boot in Black",
   "manufacturer": "OD:30 LLC",
   "productID": "32237BK",
@@ -13,6 +13,21 @@
   "color": "Black",
   "isSimilarTo": "OD:30 A3 Side-Zip Combat Boot in Black",
   "isRelatedTo": "https://od30footwear.com/Coyot",
-  "image": "https://od30footwear.com/site/Images/32237BK_45-1.jpg?resizeid=5&resizeh=1000&resizew=1000"
+  "image": ["https://od30footwear.com/site/Images/32237BK_45-1.jpg?resizeid=5&resizeh=1000&resizew=1000",
+            "https://od30footwear.com/site/Images/32237BK_ProfileInside-1.jpg?resizeid=5&resizeh=1000&resizew=1000",
+            "https://od30footwear.com/site/Images/32237BK_ProfileOutside-1.jpg?resizeid=4&resizeh=50&resizew=50",
+            "https://od30footwear.com/site/Images/32237BK_Front-1.jpg?resizeid=5&resizeh=1000&resizew=1000"],
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "USD",
+    "price": "149.99",
+    "priceValidUntil": "2018-09-01",
+    "itemCondition": "http://schema.org/NewCondition",
+    "availability": "http://schema.org/InStock",
+    "seller": {
+        "@type": "Organization",
+        "name": "OD:30"
+              }
+            }
 }
 </script>

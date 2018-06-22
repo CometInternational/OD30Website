@@ -3,16 +3,31 @@
   "@context": "http://schema.org",
   "@id": "#product",
   "@type": "IndividualProduct",
-  "url": "https://od30footwear.com/product/940",
+  "url": "https://od30footwear.com/Sage-A3-Composite-Toe-Combat-Boot",
   "name": "OD:30 A3 Combat Boot in Sage",
   "manufacturer": "OD:30 LLC",
   "description": "This lightweight, combat ready boot features 100% flesh-side out cattlehide leather, 1200 denier nylon, padded collar, brass hardware and Dimensions™ removable polyurethane footbed.  The direct attach construction ensures maximum durability, and the sole features a comfort polyurethane midsole and rugged rubber A3 outsole.  These boots are built to American Military Standards with real materials and no imitations, and conform with DA PAM 670-1.",
-  "disambiguatingDescription": "Black version of the A3",
+  "disambiguatingDescription": "Sage version of the A3",
   "brand": "OD:30",
-  "color": "Black",
+  "color": "Sage",
   "isSimilarTo": "OD:30 A3 Combat Boot in Coyote",
   "isRelatedTo": "https://od30footwear.com/Coyot",
-  "productID": "32238G",
-  "image": "https://od30footwear.com/site/Images/32238SG_45-1.jpg?resizeid=5&resizeh=1000&resizew=1000"
+  "productID": "32238SG",
+  "image": ["https://od30footwear.com/site/Images/32238SG_45-1.jpg?resizeid=5&resizeh=1000&resizew=1000",
+            "https://od30footwear.com/site/Images/32238SG_ProfileOutside-1.jpg?resizeid=5&resizeh=1000&resizew=1000",
+            "https://od30footwear.com/site/Images/32238SG_ProfileIn-1.jpg?resizeid=5&resizeh=1000&resizew=1000",
+            "https://od30footwear.com/site/Images/32238SG_Front-1.jpg?resizeid=5&resizeh=1000&resizew=1000"],
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "USD",
+    "price": "139.99",
+    "priceValidUntil": "2018-09-01",
+    "itemCondition": "http://schema.org/NewCondition",
+    "availability": "http://schema.org/InStock",
+    "seller": {
+      "@type": "Organization",
+      "name": "OD:30"
+              }
+            }
 }
 </script>

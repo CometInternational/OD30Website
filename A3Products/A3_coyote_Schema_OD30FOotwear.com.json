@@ -11,8 +11,23 @@
   "brand": "OD:30",
   "color": "Coyote",
   "isSimilarTo": "OD:30 A3 Combat Boot in Black",
-  "isRelatedTo": "https://od30footwear.com/Coyot",
+  "isRelatedTo": "https://od30footwear.com/Black-A3-Combat-Boot",
   "productID": "32237CY",
-  "image": "https://od30footwear.com/site/Images/32237CY_ProfileOut-1.jpg?resizeid=5&resizeh=1000&resizew=1000"
+  "image": ["https://od30footwear.com/site/Images/32237CY_45-1.jpg?resizeid=5&resizeh=1000&resizew=1000",
+            "https://od30footwear.com/site/Images/32237CY_ProfileIn-1.jpg?resizeid=5&resizeh=1000&resizew=1000",
+            "https://od30footwear.com/site/Images/32237CY_ProfileOut-1.jpg?resizeid=5&resizeh=1000&resizew=1000",
+            "https://od30footwear.com/site/Images/32237CY_Front-1.jpg?resizeid=5&resizeh=1000&resizew=1000"],
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "USD",
+    "price": "139.99",
+    "priceValidUntil": "2018-09-01",
+    "itemCondition": "http://schema.org/NewCondition",
+    "availability": "http://schema.org/InStock",
+    "seller": {
+      "@type": "Organization",
+      "name": "OD:30"
+              }
+            }
 }
 </script>
