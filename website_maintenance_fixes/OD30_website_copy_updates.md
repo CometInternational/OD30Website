@@ -17,3 +17,4 @@ This is nitpicky and not urgent, but for the A3 boots in Coyote the URL is  (htt
 
 
 #### Checkout
+Shipping to othe countries is not possible, at present, due to zip-code preventing form completion. 
